@@ -1,4 +1,4 @@
-## Hi there 👋
+## https://rentry.co/mydoom
 
 <!--
 **hotmaiiled/hotmaiiled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
